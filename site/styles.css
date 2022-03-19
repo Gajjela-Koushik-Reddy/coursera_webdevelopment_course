@@ -7,18 +7,13 @@ body {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    display: flex;
-    justify-items: center;
-    align-items: center;
-
 }
 
 .text {
     text-align: center;
     font-family: 'Source Code Pro', monospace;
     font-size: 95px;
-    padding-top: 20%;
-    padding-left: 30%;
+    padding-top: 25%;
     color: antiquewhite;
 }
 
